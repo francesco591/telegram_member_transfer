@@ -1,0 +1,14 @@
+{
+    "api_accounts": [
+        {
+            "api_id": 12345678,
+            "api_hash": "12g45f89asd01ff12asd4151bba71c1asda0",
+            "accounts": [
+                {
+                    "phone": "+981234567811",
+                    "session": "session_7710.session"
+                }
+            ]
+        }
+    ]
+}
